@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UIdesign2</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_news_dash_board">NewsDashBoardActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+</resources>
